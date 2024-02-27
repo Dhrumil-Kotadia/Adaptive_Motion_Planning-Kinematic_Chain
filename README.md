@@ -3,4 +3,4 @@ Learn the parameters of a motion planner from a generated training dataset and i
 
 # Images of non uniform sampled Output
 ![alt text](https://github.com/Dhrumil-Kotadia/Dynamic-Sampling-using-Workspace-Segmentation/blob/main/Results/Iterations_without_outputs/Iteration5/Samled_TM4.png?raw=true)
-
+![alt text](https://github.com/Dhrumil-Kotadia/Dynamic-Sampling-using-Workspace-Segmentation/blob/main/Results/Iterations_without_outputs/Iteration5/G38.png?raw=true)
