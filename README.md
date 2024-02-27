@@ -17,4 +17,4 @@ Based on the training data, the model provided the number of nodes and sampling 
 Each folder has a Readme file with instructions to execute the respective code.
 
 # Report
-/Report contains the complete report of the project. The entire project is explained with each detail in the report.
+/Report contains a report that encompasses the entirety of the project, providing a comprehensive explanation of every detail.
