@@ -1,5 +1,5 @@
 # Dynamic-Sampling-using-Workspace-Segmentation
-Learn the parameters of a motion planner from a generated training dataset and implement on a larger test map using 2D workspace segmentation
+Optimize motion planning time by using deep learning based adaptive sampling strategies. Learn the sampling strategies from a generated training dataset and implement on a larger test map using 2D workspace segmentation
 
 # Abstract
 Diverse sampling techniques are commonly employed in probabilistic planning approaches to determine paths. However, no single sampling method universally excels in all scenarios. Challenges arise when existing sampling methods underperform across an entire map. In response, we propose a novel solution by partitioning the workspace and employing distinct sampling methods in different map segments. Leveraging machine learning, our approach identifies the most effective sampling method for each map segment, resulting in a non-uniform dynamic sampling strategy. This innovative method eliminates the need for oversampling across the entire map, offering an efficient path-finding solution. The project involved an N-Link chain as the robotic model.
